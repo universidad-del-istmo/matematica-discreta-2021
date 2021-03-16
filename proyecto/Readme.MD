@@ -3,7 +3,7 @@ yu# Proyecto Final: Limited-Trust E-Store
 ## Formalidades
 
 * **Modalidad de Trabajo**: Grupo (Maximo 4 personas)
-* **Fecha de Entrega**: Viernes 28 de Mayo @ 11:59 pm
+* **Fecha de Entrega**: Viernes 28 de Abril @ 11:59 pm
 * **Modo de Evaluación**: Codigo fuente y presentación del programa y el codigo
 
 ## Introducción
